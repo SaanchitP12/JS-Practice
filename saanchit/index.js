@@ -4,6 +4,7 @@ console.log(2+1)
 console.log("2"+1 ) 
 
 let fruits= ["orange", "mango", "banana", "apple"];
+console.log(fruits)
 console.log(fruits[2])
 
 let name = 'Saanchit';
