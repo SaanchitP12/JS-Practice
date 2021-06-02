@@ -3,6 +3,14 @@ console.log("Hello World")
 console.log(2+1)
 console.log("2"+1 ) 
 
+/* Variables */
+/* To create a Variable there are 3 Types of Keywords
+1) let - with this keyword a variable can be created,
+and the value inside the variable can be changed again and again further in the codes 
+2) const -
+3) var -
+*/
+
 let fruits= ["orange", "mango", "banana", "apple"];
 console.log(fruits)
 console.log(fruits[2])
