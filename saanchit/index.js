@@ -11,10 +11,6 @@ and the value inside the variable can be changed again and again further in the 
 3) var -
 */
 
-let fruits= ["orange", "mango", "banana", "apple"];
-console.log(fruits)
-console.log(fruits[2])
-
 let name = 'Saanchit';
 
 const job = 'Trader';
@@ -24,6 +20,15 @@ name = 'Saanchit Pillai';
 console.log('My Name is ' + name)
 
 let age = 20;
+console.log('My Age is ' + age)
+
+/* Array */
+
+let fruits= ["orange", "mango", "banana", "apple"];
+console.log(fruits)
+console.log(fruits[2])
+
+/* Object */
 
 let car = {"color" : "red", "seats" : 6}
 console.log(car)
