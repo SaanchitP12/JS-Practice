@@ -11,16 +11,16 @@ const number = 5 + 5
 const number1 = 5 * 5
 const number2 = 5 / 5
 const number3 = 5 - 5
-console.log("Value is " + number + ", datatype is " + typeof number)
-console.log("Value is " + number1 + ", datatype is " + typeof number1)
-console.log("Value is " + number2 + ", datatype is " + typeof number2)
-console.log("Value is " + number3 + ", datatype is " + typeof number3)
+console.log("Value is " + number + " , datatype is " + typeof number)
+console.log("Value is " + number1 + " , datatype is " + typeof number1)
+console.log("Value is " + number2 + " , datatype is " + typeof number2)
+console.log("Value is " + number3 + " , datatype is " + typeof number3)
 
 /* Bigint */
 const bigint = 2222222222222222222222n + 22222222222222222222n
-console.log("Value is " + bigint + ", datatype is " + typeof bigint)
+console.log("Value is " + bigint + " , datatype is " + typeof bigint)
 const bigint1 = 44444444444444444444n - 44444444444444444444444n
-console.log("Value is " + bigint + ", datatype is " + typeof bigint)
+console.log("Value is " + bigint1 + " , datatype is " + typeof bigint1)
 
 /* Boolean */
 const boolean = 453 > 350
@@ -31,5 +31,5 @@ const word = null
 console.log("Value is " + word + ", datatype is " + typeof word)
 
 /* Undefined */
-const nun
+let nun
 console.log("Value is " + nun + ", datatype is " + typeof nun)
