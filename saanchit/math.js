@@ -57,3 +57,5 @@ console.log(Math.min(...ran))
 console.log(Math.random())
 console.log(Math.random())
 console.log(Math.random())
+
+Math.floor(Math.random() * 10);     // returns a random integer from 0 to 9
