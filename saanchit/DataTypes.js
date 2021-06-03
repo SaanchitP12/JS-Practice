@@ -33,7 +33,7 @@ const bigint1 = 44444444444444444444n - 44444444444444444444444n
 console.log("Value is " + bigint1 + " , datatype is " + typeof bigint1)
 
 /* Boolean
-Comparision.... System will Compare the Equation and Decide weather its true or false
+Comparison.... System will Compare the Equation and Decide weather its true or false
 */
 const boolean = 453 > 350
 console.log("Value is " + boolean + ", datatype is " + typeof boolean)
